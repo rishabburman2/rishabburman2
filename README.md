@@ -50,7 +50,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/rishabburman2/rishabburman2/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/rishabburman2/rishabburman2/blob/output/github-contribution-grid-snake.gif">
 </p>
 
 <h2 align="center">
